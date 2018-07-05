@@ -1,0 +1,10 @@
+body {
+    background-image:url("24301176_2029341583978456_3988082793989658686_n.jpg");
+    background-size: 90px;
+}
+
+div { 
+    position: middle;
+    background-color: rgb(5, 3, 3);margin:300px; padding: 300px;
+    color:white;
+}
