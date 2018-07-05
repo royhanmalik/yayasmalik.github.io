@@ -1,1 +1,0 @@
-# yayasmalik.github.io
